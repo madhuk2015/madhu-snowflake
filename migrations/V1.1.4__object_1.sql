@@ -1,0 +1,2 @@
+USE SCHEMA DEMO;
+select 1;
